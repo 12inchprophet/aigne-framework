@@ -22,7 +22,7 @@ AIGNE Framework is a functional AI application development framework designed to
 * **TypeScript Support**: Comprehensive TypeScript type definitions are provided, ensuring type safety and enhancing the developer experience.
 * **Multiple AI Model Support**: Built-in support for OpenAI, Gemini, Claude, Nova and other mainstream AI models, easily extensible to support additional models.
 * **Flexible Workflow Patterns**: Support for sequential, concurrent, routing, handoff and other workflow patterns to meet various complex application requirements.
-* **MCP Protocol Integration**: Seamless integration with external systems and services through the Model Context Protocol.
+* **MCP (Model Context Protocol) Integration**: Seamless integration with external systems and services through the Model Context Protocol.
 * **Code Execution Capabilities**: Support for executing dynamically generated code in a secure sandbox, enabling more powerful automation capabilities.
 * **Blocklet Ecosystem Integration**: Closely integrated with ArcBlock's Blocklet ecosystem, providing developers with a one-stop solution for development and deployment.
 
@@ -286,7 +286,7 @@ Built-in MCP support allows the AIGNE framework to effortlessly run its own MCP 
 
 ### Implement MCP Server
 
-* [MCP Server](./examples/mcp-server/README.md) - Build a MCP server using AIGNE CLI to provide MCP services.
+* [MCP Server](./examples/mcp-server/README.md) - Build an MCP server using AIGNE CLI to provide MCP services.
 
 ### Use MCP Servers
 
